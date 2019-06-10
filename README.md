@@ -3,7 +3,7 @@ INSTRUCTIONS
 
 Download Sublime --> Go to Downloads/Sublime/Mac(OR WINDOWS) and download
 
-Download example files for tomorrow --> Go to Examples/Example_Day_1
+Download example files for tomorrow --> Go to Examples/Example_Day1
 
 
 ## WINDOWS ONLY 
