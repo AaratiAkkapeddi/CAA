@@ -11,22 +11,27 @@
 // console.log(data[9]["shape"])
 
 
-var myRandomNumber = Math.floor(Math.random() * data.length - 1)
-var myRandomNumber1 = Math.floor(Math.random() * data.length - 1)
-var myRandomNumber2 = Math.floor(Math.random() * data.length - 1)
-var myRandomNumber3 = Math.floor(Math.random() * data.length - 1)
-var myRandomNumber4 = Math.floor(Math.random() * data.length - 1)
-console.log(data[myRandomNumber]["latitude"])
-console.log(data[myRandomNumber]["longitude"])
+// var myRandomNumber = Math.floor(Math.random() * data.length - 1)
+// var myRandomNumber1 = Math.floor(Math.random() * data.length - 1)
+// var myRandomNumber2 = Math.floor(Math.random() * data.length - 1)
+// var myRandomNumber3 = Math.floor(Math.random() * data.length - 1)
+// var myRandomNumber4 = Math.floor(Math.random() * data.length - 1)
+// console.log(data[myRandomNumber]["latitude"])
+// console.log(data[myRandomNumber]["longitude"])
 
-console.log("----------------")
-console.log(data[myRandomNumber2]["latitude"])
-console.log(data[myRandomNumber2]["longitude"])
-console.log("----------------")
-//Math.floor(Math.random() * Math.floor(max));
+// console.log("----------------")
+// console.log(data[myRandomNumber2]["latitude"])
+// console.log(data[myRandomNumber2]["longitude"])
+// console.log("----------------")
+// //Math.floor(Math.random() * Math.floor(max));
+
+$('.container').append('<div class="potato"></>')
+
+
+
 
 /* for loop */
-for (var i = data.length - 1; i >= 0; i--) {
-	//console.log(data[i]["shape"])
-}
+// for (var i = data.length - 1; i >= 0; i--) {
+// 	//console.log(data[i]["shape"])
+// }
 
