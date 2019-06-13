@@ -2,7 +2,7 @@
 
 
 I want you to use data as a material or a starting point to create an artwork. The data you use should be something of interest to _you_.  You can synthesize this data in any way you'd like with sculpture, code, drawing, weaving, sound, food. Etc. 
-
+**Some examples:**
 ![Maya Lin](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.35.47%20AM.png)
 ![Maya Lin](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.35.54%20AM.png)
 ![Ekene Ijioma](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.36.03%20AM.png)
@@ -10,8 +10,9 @@ I want you to use data as a material or a starting point to create an artwork. T
 ![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/arts-graphics-2008_1131915a.jpg)
 ![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/2316420045_f5a1391a43-1.jpg)
 ![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/IMG_3608.jpg)
+Aakanksha Aggarwal
 ![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/IMG_3634.jpg)
-
+Aakanksha Aggarwal
 
 
 
