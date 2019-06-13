@@ -15,7 +15,7 @@ So for example, here the artist clearly documents how she converts the informati
 
 
 
-## 2. You can use whatever data you like. You can use data you found in the library, or online, but you need to send me the data to be approved first. If you are collecting your own data, you need to record it in a .csv file and send it to me as well.**
+## 2. You can use whatever data you like. You can use data you found in the library, or online, but you need to send me the data to be approved first. If you are collecting your own data, you need to record it in a .csv file and send it to me as well. Additionally, if you are going to use code, you must get this data to me by Monday because I will need to format it for you.
 
 
 ## I've also found some sample datasets that you are welcome to use...
