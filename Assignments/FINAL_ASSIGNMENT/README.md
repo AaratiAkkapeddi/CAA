@@ -3,7 +3,18 @@
 
 I want you to use data as a material or a starting point to create an artwork. The data you use should be something of interest to _you_.  You can synthesize this data in any way you'd like with sculpture, code, drawing, weaving, sound, food. Etc. 
 
-The only rules are: 
+![Maya Lin](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.35.47%20AM.png)
+![Maya Lin](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.35.54%20AM.png)
+![Ekene Ijioma](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.36.03%20AM.png)
+![Ekene Ijioma](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/Screen%20Shot%202019-06-14%20at%207.36.09%20AM.png)
+![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/arts-graphics-2008_1131915a.jpg)
+![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/2316420045_f5a1391a43-1.jpg)
+![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/IMG_3608.jpg)
+![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/IMG_3634.jpg)
+
+
+
+**The only rules are: **
 
 ## 1. you must document your process of transforming the data. This documentation doesn't have to be part of the artwork itself. It can be written or a supplemental diagram.
 
