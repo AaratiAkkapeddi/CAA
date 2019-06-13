@@ -108,7 +108,6 @@ WEDNESDAY 6/26 ______________ Final Setup
 
 # Proposal Guidelines for Monday 6/17
 
-Make a five minute presentation about the following: 
 
 1. Who is in your group
 
