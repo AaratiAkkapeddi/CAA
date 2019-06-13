@@ -16,9 +16,11 @@ So for example, here the artist clearly documents how she converts the informati
 ## I've also found some sample datasets that you are welcome to use...
 
 
-### [Hangzhou Bus Data](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Hangzhou%20Bus%20Data/bus_data.js)
+## [Hangzhou Bus Data](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Hangzhou%20Bus%20Data/bus_data.js)
 
-### [Hangzhou Bike Share Data](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Hangzhou_bike_share_data/bike_share_data.js)
+--------------------
+
+## [Hangzhou Bike Share Data](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Hangzhou_bike_share_data/bike_share_data.js)
 
 How to read the data:
 1. Time range: 20130809-20131113.
@@ -26,9 +28,13 @@ How to read the data:
 3. Each column represents the flows between two clusters, e.g., Column “0403” records the time series of flows between Cluster 04 and Cluster 03.
 4. Each row represents an instance of all the flows at a certain time period, e.g., Row “20130909 11” is an instance of the flows among all the cluster pairs between 20130909 11:00:00 - 20130909 11:59:59.
 
-### Moon Data: [Eclipses](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Moon%20Data/eclipse_data.js) and [Moonrises](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Moon%20Data/moonrise.js)
+--------------------
 
-### [Mushroom Species](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Mushroom%20Species/mushrooms.js)
+## Moon Data: [Eclipses](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Moon%20Data/eclipse_data.js) and [Moonrises](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Moon%20Data/moonrise.js)
+
+--------------------
+
+## [Mushroom Species](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Mushroom%20Species/mushrooms.js)
 How to read the data:
 
 Attribute Information: (classes: edible=e, poisonous=p)
@@ -77,6 +83,10 @@ population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
 
 habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 
-### [World Population Statistics](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Population/population.js)
+--------------------
 
-### [Airplane Crashes](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Airplane%20Crashes/airplane_crashes.js)
+## [World Population Statistics](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Population/population.js)
+
+--------------------
+
+## [Airplane Crashes](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Airplane%20Crashes/airplane_crashes.js)
