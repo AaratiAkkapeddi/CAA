@@ -1,0 +1,50 @@
+body{
+	background: lightgrey;
+}
+
+.strawberry{
+	background: red;
+	width: 10px;
+	height: 10px;
+	margin: 5px;
+	display: inline-block;
+	border-radius: 60%;
+
+}
+.strawberry.san{
+	background: blue;
+}
+.strawberry.us{
+	background: blue;
+	transform: translateY(50px);
+}
+.strawberry.ca{
+	background: yellow;
+	border: 1px dashed black;
+	transform: scaleY(2);
+}
+.strawberry.us{
+	transform: skew(40deg);
+}
+
+.blueberry{
+	width: 100px;
+	border: 10px solid blue;
+	display: inline-block;
+}
+.strawberry.unknown:before{
+	content:"\0398";
+	color: deeppink;
+}
+.strawberry.disk{
+	box-shadow: 10px 40px 5px white;
+}
+.strawberry.sphere{
+	filter: drop-shadow(16px 16px 10px blue);
+}
+.strawberry.fireball{
+	filter: drop-shadow(10px 10px 8px orange);
+}
+.strawberry.rectangle{
+	border-radius: 0;
+}
