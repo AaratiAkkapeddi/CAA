@@ -7,6 +7,8 @@ The only rules are that **you must document your process of transforming the dat
 
 So for example, here the artist clearly documents how she converts the information into numbers and then colors in these notes...
 
+![sketchbook](Assignments/FINAL_ASSIGNMENT/WechatIMG3.jpeg)
+![sketchbook](Assignments/FINAL_ASSIGNMENT/WechatIMG5.jpeg)
 
 
 
