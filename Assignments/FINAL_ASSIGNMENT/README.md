@@ -16,7 +16,7 @@ So for example, here the artist clearly documents how she converts the informati
 
 
 ## I've also found some sample datasets that you are welcome to use...
-
+---------------------
 
 ## [Hangzhou Bus Data](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Hangzhou%20Bus%20Data/bus_data.js)
 
@@ -92,3 +92,56 @@ habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 --------------------
 
 ## [Airplane Crashes](https://raw.githubusercontent.com/AaratiAkkapeddi/CAA/master/Assignments/FINAL_ASSIGNMENT/SAMPLE_DATA/Airplane%20Crashes/airplane_crashes.js)
+
+
+
+# DUE DATES
+
+MONDAY 6/17 _________________________ Proposal is Due
+
+TUESDAY 6/18 _________________________ Data is Due and Special Request Form is Due
+
+MONDAY & TUESDAY 6/24, 6/25 ______ One on Ones with me, Your methodology sketch is due 
+
+WEDNESDAY 6/26 ______________ Final Setup
+
+
+# Proposal Guidelines for Monday 6/17
+
+Make a five minute presentation about the following: 
+
+1. Who is in your group
+
+2. What data you plan to use
+
+3. How you will get this data
+
+4. why you are interested in this data
+
+5. what you want to communicate with this data
+
+6. How you will communicate it (what form will you use) 
+
+7. Tentative title for this project
+
+
+# Forms for Tuesday 6/18
+
+Who is in your group?
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+What is the title of your project?
+_________________________________________________________________________________
+
+Write a 1-2 sentence description of your project
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+Will you need any special materials or equipment from the school? What will you need and why? _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________
+
+# Methodology Sketch (Monday 6/24)
+
+You need to create a sketch, diagram, or written explanation of how you are translating the data (see images at the top for example)
