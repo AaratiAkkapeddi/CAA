@@ -160,4 +160,4 @@ Will you need any special materials or equipment from the school? What will you 
 
 # Methodology Sketch (Monday 6/24)
 
-You need to create a sketch, diagram, or written explanation of how you are translating the data (see images at the top for example)
+You need to create a sketch, diagram, or written explanation of how you are translating the data 
