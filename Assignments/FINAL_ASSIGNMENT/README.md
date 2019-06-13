@@ -14,7 +14,10 @@ I want you to use data as a material or a starting point to create an artwork. T
 
 
 
-**The only rules are: **
+
+
+
+# The only rules are: 
 
 ## 1. you must document your process of transforming the data. This documentation doesn't have to be part of the artwork itself. It can be written or a supplemental diagram.
 
