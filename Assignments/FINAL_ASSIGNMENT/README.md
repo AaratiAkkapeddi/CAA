@@ -22,7 +22,7 @@ Aakanksha Aggarwal
 
 ## 1. you must document your process of transforming the data. This documentation doesn't have to be part of the artwork itself. It can be written or a supplemental diagram.
 
-So for example, here the artist clearly documents how she converts the information into numbers and then colors in these notes...
+So for example, here Aiwen clearly documents how she converts the information into numbers and then colors in these notes...
 
 ![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/WechatIMG3.jpeg)
 ![sketchbook](https://github.com/AaratiAkkapeddi/CAA/blob/master/Assignments/FINAL_ASSIGNMENT/WechatIMG5.jpeg)
