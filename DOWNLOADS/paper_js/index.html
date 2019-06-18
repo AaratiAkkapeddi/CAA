@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="main.css">
+	<title>Document</title>
+</head>
+<body>
+	<canvas id="myCanvas" resize></canvas>
+	<script type="text/javascript" src='paper-full.min.js'></script>
+	<script type="text/javascript" src='jquery.min.js'></script>
+	<script type="text/javascript" src='main.js'></script>
+
+<!-- THIS CODE IS TO DOWNLOAD IT AS AN SVG/VECTOR FOR ADOBE ILLUSTRATOR -->
+<button id="download-to-svg">DOWNLOAD</button>
+<script type="text/javascript">
+   document.addEventListener("DOMContentLoaded", function(event) { 
+    document.getElementById("download-to-svg").onclick = function(){
+     var fileName = "custom.svg"
+     var url = "data:image/svg+xml;utf8," + encodeURIComponent(paper.project.exportSVG({asString:true}));
+     var link = document.createElement("a");
+     link.download = fileName;
+     link.href = url;
+     link.click();
+    }
+   });
+</script>
+<!--- DONT EDIT THIS -->
+</body>
+</html>
