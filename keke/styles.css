@@ -1,0 +1,53 @@
+body{
+	background: white;
+}
+.container{
+	height: 100vh;
+	background: white;
+
+	bottom: 200px;
+}
+.container div{
+	position: relative;
+}
+.black{
+	background: black;
+	width: 50%;
+	margin:0;
+}
+
+.white{
+	background: white;
+	width: 50%;
+	margin:0;
+}
+
+.yellow{
+	background: yellow;
+	width: 50%;
+	margin:0;
+}
+
+.bblue{
+	background: lightblue;
+	width: 50%;
+	margin:0;
+}
+
+.red{
+	background: red;
+	width: 50%;
+	margin:0;
+}
+
+.blue{
+	background: blue;
+	width: 50%;
+	margin:0;
+}
+
+.green{
+	background: green;
+	width: 50%;
+	margin:0;
+}
